@@ -33,4 +33,7 @@
 
   * Finally, we were able to display the 4 cities on google map to visualize their relative locations.
 
+## Conclusion
+* In conclusion, we successfully built a system that uses OpenWeatherMap API and GoogleMap API to create a worldwide database of hotels that meet customer preferences. There was no obtacle faced during the analysis and extremely clean data was retrieved.
+
 

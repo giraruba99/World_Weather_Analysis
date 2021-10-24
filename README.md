@@ -12,7 +12,8 @@
 ## Results and Analysis:
   ### Performing an API call from OpenWeatherMap:-
   * A great deal of waether data was retrieved and here is the DataFrame out of out API call.
-
+  
+![city_data_df](https://user-images.githubusercontent.com/89214854/138582583-fa95518a-1c16-400e-b41b-373045e52923.png)
 
   * A CSV was succesfuly saved for further analysis... the anventure of analyzing the data continues below.
 
@@ -20,17 +21,24 @@
   * From the CSV data created above, we were able to retrive hotel data that meets customer weather preferences.
   * The following marker layer map was created with a pop-up marker for each city.
 
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/89214854/138582865-4cf625d1-749d-44da-a369-53715b4c0222.png)
+
+
   ### Creating a Travel Itinerary map
 
   * From our cities that meet customer weather preferences, 4 US cities were chosen (Saint George, Steamboat Springs, Saint Anthony and Ponca City).
   * Three ways of travelling among those destinations was created (driving, bicycling and walking routes).
 
   - Driving Route:-
+![WeatherPy_travel_map_driving](https://user-images.githubusercontent.com/89214854/138582890-96d48695-4be5-4617-8ca6-1d9ad1b1a020.png)
 
   - Bicyling Route:-
+![WeatherPy_travel_map_bicycling](https://user-images.githubusercontent.com/89214854/138582883-4489c4c0-63e3-430f-9315-0dc705543dbf.png)
 
   - Walking Route:-
+![WeatherPy_travel_map_walking](https://user-images.githubusercontent.com/89214854/138582897-377e07b5-f837-4079-9043-f878b88d3513.png)
 
   * Finally, we were able to display the 4 cities on google map to visualize their relative locations.
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/89214854/138582907-87747e96-c6ad-470f-9bcb-bc7fcd49c0e1.png)
 
 
